@@ -1,1 +1,1 @@
-# twcc3
+# TransferWise Coding Contest #3 Solutions
